@@ -1,12 +1,12 @@
-# Kinetic Typography Page Transition
+# Circular Text Effect
 
-A concept for a kinetic typography based page transition where background letters come into the foreground and reveal a new content level.
+An experimental circular SVG text animation inspired by this [concept](https://twitter.com/hi_twotwentytwo/status/1159907278096650240?s=03)
 
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/09/KineticTypePageTransition_featured.jpg)
+![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/03/circletext_featured.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=56722)
+[Article on Codrops](https://tympanus.net/codrops/?p=53487)
 
-[Demo](http://tympanus.net/Development/KineticTypePageTransition/)
+[Demo](http://tympanus.net/Development/CircularTextEffect/)
 
 
 ## Installation
@@ -28,10 +28,6 @@ Create the build:
 ```
 npm run build
 ```
-
-## Credits
-
-- Images from [Unsplash](https://unsplash.com/)
 
 ## Misc
 
